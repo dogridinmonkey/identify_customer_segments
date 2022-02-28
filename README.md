@@ -11,7 +11,7 @@ This project was based around identifying segments of a population that are the 
 
 #### Licensing
 
-The starter code for theis project is credit to Udacity and Arvato Analytics
+The starter code for theis project is credit to Udacity and Arvato Analytics and I used swang13's project for foundation on a few sections.
 
 
 ```python
