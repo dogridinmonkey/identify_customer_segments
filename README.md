@@ -5,7 +5,7 @@
 
 Included in this repository is the project code in a Jupyter Notebook, as well as an html file for submission of the project.
 
-#### Projeect Description
+#### Project Description
 
 This project was based around identifying segments of a population that are the basis for a mail order sales company. The demographic data is from Germany and the information will be used to determine the portion of the popuulation that will have the highest promise of return for the company.
 
